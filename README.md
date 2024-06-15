@@ -22,6 +22,8 @@ My current assumption is that Microsoft does not plan to change this behaviour, 
 - `docs/methods.md`: Explanation of the methods used in the script.
 - `docs/mitigation.md`: Recommendations for mitigating this type of UAC bypass.
 - `src/main.go`: The Go source code for the UAC bypass script.
+- `src/dll/main.c`: The C source code for the UAC bypass dll.
+- `src/dll/dxgi.dll`: The compiled C source code for the UAC bypass dll.
 
 ## Usage
 
