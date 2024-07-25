@@ -30,6 +30,6 @@ My current assumption is that Microsoft does not plan to change this behaviour, 
 To run the script, compile it using Go and execute the binary:
 
 ```sh
-go build -o uac-bypass main. go
+go build -o uac-bypass main.go
 ./uac-bypass
 ```
