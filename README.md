@@ -1,4 +1,4 @@
-# UAC-Bypass
+# UAC-Bypass (Patched)
 
 This repository contains a proof of concept for bypassing User Account Control (UAC) on Windows using GoLang. The script demonstrates how to elevate privileges without triggering a UAC prompt by exploiting specific characteristics of Windows 10/11. 
 
